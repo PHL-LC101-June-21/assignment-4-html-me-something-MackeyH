@@ -17,11 +17,6 @@ body {
         border-bottom: 10px solid rgb(100, 48, 160);
     }
 
-    /* #page-wrap {
-        width: 600px;
-        margin: 0 auto; */
-    /* } */
-    /* heading centered */
     h1, h3 {
         text-align: center;  
     }
@@ -84,49 +79,3 @@ body {
         /* padding: 90px; */
         /* margin: 20px; */
     }
-
-
-    /* * {
-        box-sizing: border-box;
-    }
-
-    .column {
-        float: left;
-        width: 33.33%;
-        padding: 5px;
-    }
-
-    .row::after {
-        content: "";
-        clear: both;
-        display: table;
-    } */
-
-
-
-    
-    /* apple imac images(2) */
-    /* .column {
-        /* width: 600px; */
-            /* box-sizing: border-box;
-            float: left;
-            width: 50%;
-    }
-    .row::after {
-        content: "";
-        clear: both;
-        display: table;
-    /* } */
-
-        /* unused code ideas */
-/* 
-    #appleimage {
-        display: inline-block;
-        width: 600px; */
-        /* margin: auto; */
-        /* align-items:center; */
-        /* margin-top: 30px;
-        margin-bottom: 30px; */
-        /* margin-right: 200px;
-        margin-left: 200px; */
-        /* padding: auto;
