@@ -43,11 +43,12 @@ body {
     }
     /* paragraphs */
     p {
+        display: block;
         text-align: center; 
         margin-top: 45px;
         margin-bottom: 20px;
-        margin-left: 350px;
-        margin-right: 350px;
+        /* margin-left: 350px;
+        margin-right: 350px; */
     }
     /* all images */
     img {
